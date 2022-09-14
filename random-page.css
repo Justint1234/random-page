@@ -1,19 +1,9 @@
-.header {
-    width: 300px;
-  border: 15px solid green;
-  padding: 20px;
-  margin: 20px;
-}
+div {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #EEEEEE;
+  }
 
-.one {
-    background: purple;
-}
 
-.two {
-    background: orange;
-}
-
-.three {
-    background: red;
-}
 
