@@ -21,4 +21,11 @@
   .quote {
     margin-top: 110px;
   }
+
+  .footer {
+    display: block;
+    width: 100%;
+    text-align: center;
+    align-self: stretch;
+  }
  
