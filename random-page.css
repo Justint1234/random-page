@@ -12,14 +12,10 @@
   }
 
   .cards {
-    display: flex;
-    margin: 40px;
-    flex-flow: row wrap;
-  }
-
-  .card {
     width: 90px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
   }
 
-  
 
