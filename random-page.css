@@ -1,9 +1,16 @@
-div {
+/* div {
     padding: 30px;
     text-align: center;
     margin-bottom: 10px;
-   
-  }
+  } */
 
+  header, .intro-text {
+    display: flex;
+    width: 100%;
+    align-self: stretch;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: row wrap;
+  }
 
 
